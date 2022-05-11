@@ -1,0 +1,71 @@
+﻿  compilation object save succeeded; see C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\x64\Debug\PixelShader_FvfXyzDiffuse.cso
+  compilation object save succeeded; see C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\x64\Debug\PixelShader_SpriteFont.cso
+  compilation object save succeeded; see C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\x64\Debug\VertexShader_FvfXyzDiffuse.cso
+  compilation object save succeeded; see C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\x64\Debug\VertexShader_SpriteFont.cso
+  AssetLoader.cpp
+  Asteroid.cpp
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(24): message : see reference to class template instantiation 'AssetManager<ASSET>' being compiled
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,32): error C2238: unexpected token(s) preceding ';'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,11): error C3646: 'assets_': unknown override specifier
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Background.cpp
+  BootState.cpp
+  Bullet.cpp
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(24): message : see reference to class template instantiation 'AssetManager<ASSET>' being compiled
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,32): error C2238: unexpected token(s) preceding ';'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,11): error C3646: 'assets_': unknown override specifier
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  DynamicVertexBuffers.cpp
+  FontEngine.cpp
+  ImmediateMode.cpp
+  Maths.cpp
+  MatrixBuffer.cpp
+  OrthoCamera.cpp
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(24): message : see reference to class template instantiation 'AssetManager<ASSET>' being compiled
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,32): error C2238: unexpected token(s) preceding ';'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,11): error C3646: 'assets_': unknown override specifier
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Collider.cpp
+  Collision.cpp
+  Explosion.cpp
+  Game.cpp
+  GameEntity.cpp
+  GameOver.cpp
+  Graphics.cpp
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(24): message : see reference to class template instantiation 'AssetManager<ASSET>' being compiled
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,32): error C2238: unexpected token(s) preceding ';'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,11): error C3646: 'assets_': unknown override specifier
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Keyboard.cpp
+  LevelStart.cpp
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\LevelStart.cpp(37,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  Main.cpp
+  MainMenu.cpp
+  MainWindow.cpp
+  GameState.cpp
+  PixelShader.cpp
+  PlayingState.cpp
+  Random.cpp
+  ResourceLoader.cpp
+  Ship.cpp
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(24): message : see reference to class template instantiation 'AssetManager<ASSET>' being compiled
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(22,32): error C2238: unexpected token(s) preceding ';'
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,11): error C3646: 'assets_': unknown override specifier
+C:\Users\CrimEMasTeRGoGo\Downloads\Compressed\AsteroidsTest2019\Asteroids\AssetManager.h(23,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  SpriteFontRenderer.cpp
+  StateLibrary.cpp
+  System.cpp
+  VertexShader.cpp
+  Generating Code...
