@@ -16,6 +16,7 @@ Game::Game() :
 	camera_(0),
 	background_(0),
 	player_(0),
+	bullet_(0),
 	collision_(0)
 {
 	camera_ = new OrthoCamera();
@@ -130,7 +131,7 @@ void Game::SpawnPlayer()
 
 void Game::DeletePlayer()
 {
-	delete player_;
+	//delete player_;
 	player_ = 0;
 }
 
@@ -238,7 +239,7 @@ void Game::SpawnBullet(XMVECTOR position, XMVECTOR direction)
 
 void Game::DeleteBullet()
 {
-	delete bullet_;
+	//delete bullet_;
 	bullet_ = 0;
 }
 
@@ -291,7 +292,7 @@ void Game::AsteroidHit(Asteroid *asteroid)
 void Game::DeleteAsteroid(Asteroid *asteroid)
 {
 	asteroids_.remove(asteroid);
-	delete asteroid;
+	//delete asteroid;
 }
 
 void Game::UpdateCollisions()
